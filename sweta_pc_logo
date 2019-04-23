@@ -1,0 +1,1 @@
+g++ -std=c++11 interpreter.cpp cursor.cpp error.cpp cmd.cpp parser.cpp -o pc_logo -lfltk -ll
