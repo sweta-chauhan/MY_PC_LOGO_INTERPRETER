@@ -1,0 +1,2 @@
+repeat 40 [ bk 200 rt 45 ]
+repeat 90[fd 5 bk 5 rt 4]

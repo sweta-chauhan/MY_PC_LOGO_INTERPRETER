@@ -1,0 +1,1 @@
+repeat 90 [ fd 100 rt 92 fd 100 rt 88 fd 100 rt 90 fd 100 rt 89 ]
