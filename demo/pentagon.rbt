@@ -1,1 +1,1 @@
-repeat 5 [fd 10 rt 72]
+repeat 5 [ fd 10 rt 72 ] 
